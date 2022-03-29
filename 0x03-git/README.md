@@ -1,1 +1,1 @@
-bla bla bla
+block is changed
